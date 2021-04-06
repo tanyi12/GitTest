@@ -1,0 +1,16 @@
+﻿$PBExportHeader$pbautotest.srj
+EXE:pbautotest.exe,,0,0,1,1,
+CMP:0,0,0,2,0,0,1
+COM:
+DES:
+CPY:
+PRD:
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+POWERCLIENT:{"pbautotest":{"Format":"1.0","AppType":1,"AppName":"pbautotest","OutputDir":"C:\\Users\\appeon\\AppData\\Local\\Temp\\pbappscache\\temp\\pbautotest","ResourceName":"","Arguments":"","DeployVersion":"1.01","MinimumValidVersion":"1.01","OnlineTime":"2021-03-26 02:11:44","OfflineTime":"2031-03-26 02:11:44","PromptOverwrite":false,"WindowsClassicStyle":false,"FullBuild":false,"EnableDebugSymbol":true,"EncryptPbdFiles":true,"Is32Bit":true,"CheckLauncherValid":true,"LocalServer":true,"ServerProfile":"","FullDownload":false,"DeployWebPage":0,"CreateDesktopShortcut":true,"CreateStartMenuShortcut":true,"CreateAppUninstallShortcut":true,"ShowStartAnimatedWindow":true,"CheckPbdValidaty":false,"StartMode":0,"IsVerOffCheck":false,"PBCParams":"","RuntimeVersion":"21.0.0.1106","PreloadEventCommands":"","RunCommandAsAdmin":false,"AlwaysRunCommand":false,"ProductName":"","CompanyName":"","Description":"","Copyright":"","ProductVersion":"1.0.0.1","FileVersion":"1.0.0.1","ProductVersionMajor":1,"ProductVersionMinor":0,"ProductVersionBuild":0,"ProductVersionRevision":1,"FileVersionMajor":1,"FileVersionMinor":0,"FileVersionBuild":0,"FileVersionRevision":1,"GenerateOption":2,"ExecutionLevel":2,"AllowAccessSystemUI":false,"RunWithHttps":false,"RunWithShellApp":true,"RunArguments":"","RunHost":"localhost","RunPort":"","AppStartupMethod":0,"Libraries":[{"PbdName":"statictexttest.pbd","PbdLocalPath":"statictexttest.pbd"}],"PredownloadPackages":{},"PredownloadFiles":[],"InstantDownloadFiles":[],"RuntimeModules":["Core Runtime Files"],"RegisterFiles":[],"Signing":{"SignOption":0,"CustomScript":"","SignTool":"","PfxFile":"","PfxPassword":"","Algorithm":"SHA256","TimeStamp":"http://timestamp.digicert.com"},"powerserver":{"webapiurl":"","webapihost":"localhost","webapiport":5009,"iswebapihttps":false,"srvsrcoutdir":"C:\\Users\\appeon\\source\\repos","srvsrcoutdiradditiondir":"","modelname":"","generateopts":0,"licensefile":""},"IniConfigFiles":[]}}
+PBD:statictexttest.pbl,,1
+OBJ:E:\Test\SataictextTest\statictexttest.pbl,test,w
+OBJ:E:\Test\SataictextTest\statictexttest.pbl,statictexttest,a
